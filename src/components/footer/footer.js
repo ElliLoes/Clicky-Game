@@ -1,11 +1,6 @@
 import React from "react";
+import './Footer.css';
 
-function Footer() {
-  return (
-    <div className="colors position-relative footer footer-100 footer-mgn navbar p-0">
-      <span className="text-muted" />
-    </div>
-  );
-}
+const Footer = () => <div className="footer text-center">Clicky Game</div>;
 
 export default Footer;
