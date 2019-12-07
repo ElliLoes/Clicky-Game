@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.b2236f3d.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.d1119f87.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.d1119f87.chunk.js.map",
+    "runtime-main.js": "/Clicky-Game/static/js/runtime-main.ccb7d40c.js",
+    "runtime-main.js.map": "/Clicky-Game/static/js/runtime-main.ccb7d40c.js.map",
+    "static/js/2.fa921bb9.chunk.js": "/Clicky-Game/static/js/2.fa921bb9.chunk.js",
+    "static/js/2.fa921bb9.chunk.js.map": "/Clicky-Game/static/js/2.fa921bb9.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.159556b164322517d8d0a0c059009db6.js": "/Clicky-Game/precache-manifest.159556b164322517d8d0a0c059009db6.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.b2236f3d.chunk.css.map": "/Clicky-Game/static/css/main.b2236f3d.chunk.css.map",
+    "static/media/donut1.png": "/Clicky-Game/static/media/donut1.d5059a9b.png",
+    "static/media/donut10.jpg": "/Clicky-Game/static/media/donut10.7d70ed0e.jpg",
+    "static/media/donut11.jpg": "/Clicky-Game/static/media/donut11.5098cb38.jpg",
+    "static/media/donut12.jpg": "/Clicky-Game/static/media/donut12.8ec318a6.jpg",
+    "static/media/donut2.jpg": "/Clicky-Game/static/media/donut2.ee31c4c6.jpg",
+    "static/media/donut3.jpg": "/Clicky-Game/static/media/donut3.632c8dbb.jpg",
+    "static/media/donut4.jpg": "/Clicky-Game/static/media/donut4.436acdf5.jpg",
+    "static/media/donut5.jpg": "/Clicky-Game/static/media/donut5.5be7fac6.jpg",
+    "static/media/donut6.jpg": "/Clicky-Game/static/media/donut6.0e9f482e.jpg",
+    "static/media/donut7.jpg": "/Clicky-Game/static/media/donut7.2514b054.jpg",
+    "static/media/donut8.jpg": "/Clicky-Game/static/media/donut8.a6946510.jpg",
+    "static/media/donut9.jpg": "/Clicky-Game/static/media/donut9.0cc1e425.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb7d40c.js",
+    "static/js/2.fa921bb9.chunk.js",
+    "static/css/main.b2236f3d.chunk.css",
+    "static/js/main.d1119f87.chunk.js"
+  ]
+}
