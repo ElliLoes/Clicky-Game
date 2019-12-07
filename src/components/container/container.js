@@ -1,5 +1,5 @@
 import React from 'react';
-// import './Container.css';
+import './container.css';
 import Character from '../character/character';
 
 // main container for each Character component
