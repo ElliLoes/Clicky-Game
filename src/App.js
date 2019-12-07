@@ -1,10 +1,9 @@
 import React, { Component } from "react";
 import Navbar from "./components/navbar/navbar";
 import Container from "./components/container/container";
-import Character from "./components/character/character";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
-import images from "../assets/images";
+import images from "./images";
 
 class ClickyGame extends Component {
   state = {
