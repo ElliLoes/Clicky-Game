@@ -9,6 +9,9 @@
     padding-bottom: 50px;
     width: 90%;
     margin: 0 auto;
+    padding-right: 150px;
+    padding-left: 150px;
+    max-width: 1000px;
   }
   
   @keyframes shaker {

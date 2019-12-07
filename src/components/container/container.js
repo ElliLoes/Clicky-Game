@@ -11,8 +11,8 @@ const Container = props => (
   <div
     className={
       props.shake
-        ? 'container d-flex flex-wrap justify-content-center shake'
-        : 'container d-flex flex-wrap justify-content-center'
+        ? 'container shake'
+        : 'container'
     }
   >
     {props.characters.map((a, i) => <Character name={a} key={i} clickEvent={props.clickEvent} />)}
