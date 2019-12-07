@@ -1,6 +1,6 @@
 import React from 'react';
-import './Container.css';
-import Character from '../Character';
+// import './Container.css';
+import Character from '../character/character';
 
 // main container for each Character component
 // loops through each index in props.characters, which contains an array of character images

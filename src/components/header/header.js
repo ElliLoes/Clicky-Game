@@ -1,5 +1,5 @@
 import React from "react";
-import "./header.css";
+// import "./header.css";
 
 const Header = () => (
     <div className="header align-items-center bg-header jumbotron header-hgt header-pad head-mar-top nav-shadow neon text-center yx-auto text-center">
