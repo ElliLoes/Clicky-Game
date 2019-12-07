@@ -1,0 +1,16 @@
+.header {
+    background-color: turquoise;
+    height: auto;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+  }
+
+  .textHeader {
+    font-size: 25px;
+    padding: 20px 20px;
+    line-height: 1.5;
+    margin: 0 !important;
+  }
