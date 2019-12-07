@@ -80,7 +80,7 @@ class ClickyGame extends Component {
       let score = 0;
       return this.setState({
         score: score,
-        highScore: topScore,
+        topScore: topScore,
         navMsgColor: 'incorrect',
         navMessage: 'Incorrect guess!',
         allCharacters: shuffled,
@@ -92,7 +92,7 @@ class ClickyGame extends Component {
     // if this runs, then the same element has not been clicked twice and the score is increased
     this.setState({
       score: score,
-      highScore: topScore,
+      topScore: topScore,
       navMsgColor: 'correct',
       navMessage: 'You Guessed Correctly!',
       allCharacters: shuffled,

@@ -1,0 +1,61 @@
+.navbar {
+    background: pink;
+    min-height: 70px;
+    font-size: 25px;
+    padding: 40px 0;
+    width: 100%;
+    -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    color: rgb(14, 129, 118);
+    font-family: 'Josefin Sans', sans-serif;
+    z-index: 80;
+    white-space: nowrap;
+  }
+  
+  .navbar div {
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .navbar div:first-child {
+    letter-spacing: 1px;
+    font-weight: 900;
+  }
+  
+  .correct {
+    animation: correctGuess 0.5s;
+  }
+  .incorrect {
+    animation: incorrectGuess 0.5s;
+  }
+  
+  @keyframes incorrectGuess {
+    0% {
+      color: white;
+    }
+    25% {
+      color: red;
+    }
+    75% {
+      color: red;
+    }
+    100% {
+      color: white;
+    }
+  }
+  
+  @keyframes correctGuess {
+    0% {
+      color: white;
+    }
+    25% {
+      color: green;
+    }
+    75% {
+      color: green;
+    }
+    100% {
+      color: white;
+    }
+  }
